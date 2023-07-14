@@ -56,7 +56,9 @@ const x= 12
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-const nome ="Rita"
+let nome ="Rita"
+nome="munteanu"
+
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
@@ -73,3 +75,4 @@ console.log(4-x)= -8
 /* SCRIVI QUI LA TUA RISPOSTA */
 Const nome1="john"
 const nome2="John"
+const verifica =(nome1 !==nome2)?"vero":"falso"
